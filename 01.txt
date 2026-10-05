@@ -1,0 +1,8 @@
+16:41 03-10-2026
+
+
+https://developer.mozilla.org/es/docs/Learn_web_development/Extensions/Server-side/Django/skeleton_website
+locallibrary/         # Carpeta del sitio web
+    manage.py         # Script para ejecutar las herramientas de Django para este proyecto (creado con django-admin)
+    locallibrary/     # Carpeta del sitio web/proyecto (creada con django-admin)
+    catalog/          # Carpeta de la aplicación (creada con manage.py)
